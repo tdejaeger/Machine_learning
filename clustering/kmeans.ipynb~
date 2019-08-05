@@ -304,7 +304,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Let's see the kmeans accurracy"
+    "Let's kmeans accurracy"
    ]
   },
   {
