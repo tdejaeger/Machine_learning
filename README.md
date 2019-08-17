@@ -4,8 +4,9 @@ You can find different examples of machine learning codes using Python.
 
 
 NEED:  
--Numpy  
--Matplotlib  
--Scipy  
--Sklearn  
-
+- Numpy  
+- Matplotlib  
+- Scipy  
+- Sklearn  
+- EMCEE
+- CORNER
