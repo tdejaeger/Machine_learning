@@ -12,11 +12,12 @@ NEED:
 - CORNER  
 
 
-EXAMPLES:  
-- Clustering:   
+What can you find:  
+
+- **Clustering**:   
 	+ kmeans (sklearn)  
 
-- Linear regressions: 
+- **Linear regressions:** 
 	+ Pearson factor (Scipy)  
 	+ non-linear least squares (curve_fit)  
 	+ Orthogonal distance regression (ODR)  
@@ -25,12 +26,12 @@ EXAMPLES:
 	+ Bayesian analysis via MCMC (EMCEE)  
 	+ data visualisation (Matplotlib, corner)  
 
-- Outlier detection:  
-	+ Unsupervised method:  
+- **Outlier detection**:  
+	+ Unsupervised method (sklearn):  
 	     + Multivariate Gaussian model (3 sigma clipping and EllipticEnvelope)  
 	     + Local Outlier Factor   
 	     + Isolation Forest methods  
-	+ Supervised methods:   
+	+ Supervised methods (sklearn):   
 	     + Support Vector Machine   
 	     + Random Forest Classifier   
 
