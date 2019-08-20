@@ -10,6 +10,7 @@ NEED:
 - Sklearn  
 - EMCEE
 - CORNER  
+- George   
 
 
 What can you find:  
@@ -33,7 +34,9 @@ What can you find:
 	     + Isolation Forest methods  
 	+ Supervised methods (sklearn):   
 	     + Support Vector Machine   
-	     + Random Forest Classifier   
+	     + Random Forest Classifier    
 
-
+- **Gaussian Process:** 
+	+ Gaussian process regression (George)  
+	+ Gaussian process classification (sklearn)  
 
