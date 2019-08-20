@@ -8,8 +8,8 @@ NEED:
 - Matplotlib  
 - Scipy  
 - Sklearn  
-- EMCEE
-- CORNER  
+- Emcee
+- Corner  
 - George   
 
 
