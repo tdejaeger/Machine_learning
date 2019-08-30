@@ -40,3 +40,6 @@ What can you find:
 	+ Gaussian process regression (George)  
 	+ Gaussian process classification (sklearn)  
 
+- **Principal component analysis:** 
+	+ perform dimensionality reduction (sklearn)  
+	+ Face reconization (sklearn)  
